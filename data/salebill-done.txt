@@ -1,0 +1,8 @@
+
+"curl '127.0.0.1:11515/bh/k3/pull/saleBill.do?k3AccountCustom=true&start=2019-10-21&end=2019-10-31'",
+"curl '127.0.0.1:11515/bh/k3/pull/saleBill.do?k3AccountCustom=true&start=2019-11-1&end=2019-11-10'",
+"curl '127.0.0.1:11515/bh/k3/pull/saleBill.do?k3AccountCustom=true&start=2019-11-11&end=2019-11-20'",
+"curl '127.0.0.1:11515/bh/k3/pull/saleBill.do?k3AccountCustom=true&start=2019-11-21&end=2019-11-30'",
+"curl '127.0.0.1:11515/bh/k3/pull/saleBill.do?k3AccountCustom=true&start=2019-12-1&end=2019-12-10'",
+"curl '127.0.0.1:11515/bh/k3/pull/saleBill.do?k3AccountCustom=true&start=2019-12-11&end=2019-12-20'",
+"curl '127.0.0.1:11515/bh/k3/pull/saleBill.do?k3AccountCustom=true&start=2019-12-21&end=2019-12-31'"
